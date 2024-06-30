@@ -1,0 +1,11 @@
+#MacOS
+.DS_Store
+
+# Files
+*.png
+*.jpg
+*.zip
+*.pdf
+
+# Venv
+.venv
